@@ -16,6 +16,7 @@
         <logo/>
         <menu display_value="Jeopardy">82aaa38bdb07eb0069c5fd131d9619e5</menu>
         <name>Jeopardy</name>
+        <package_json/>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
